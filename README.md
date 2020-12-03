@@ -11,6 +11,6 @@ Submit an error from the Issues page.
 To convert a font for formatting, kindly use the .jar file on this repo.
 
 If you have Java installed, but cannot open .jar files, please use CMD and change the username and path.
-`java -jar C:\Users\(UserHere)\(Path of Jar File)\RBXFontMapGenerator.jar`
+`java -jar C:\Users\(UserHere)\(Path of Jar File)\RBXFontMapGen.jar`
 
-Credits to M0RGOTH for originally creating the module. I had to fix it.
+Credits to M0RGOTH for originally creating the module.
